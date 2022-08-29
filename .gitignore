@@ -1,2 +1,13 @@
-*.class
-*.log
+/target/
+/.idea/
+
+dist/*
+target/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+.bsp/
+/null/*
